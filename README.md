@@ -25,3 +25,6 @@ I used.
 * More and more lessons for my children
 * A lesson selection menu
 * Get my wife to record voice narration and match that to the script as none of my kids can read yet.
+
+
+> Note: I will not be releasing an executable version of this program as I am not the owner of the art and music assets used in the project. I used them only because I knew this would not be a commercial product but a program for educational uses in my own home only. Ren'Py and Python are both free and I encourage anyone to download them from the official sites and make their own visual novels. The character images and music I used are all featured in the tutorial that comes when you download the Ren'Py sdk. Check it out and support the official release.
